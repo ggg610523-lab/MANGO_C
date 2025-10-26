@@ -48,7 +48,7 @@ def myCommand():
 # Main program
 if __name__ == "__main__":
     greetMe()
-    speak("Hello Sir, I am your digital assistant chota bheem ")
+    speak("Hello Sir, I am your digital assistant mango cc ")
     speak("How may I help you?")
 
     commands = {
