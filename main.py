@@ -23,7 +23,7 @@ def greetMe():
     if currentH < 12:
         speak('Good Morning!')
     elif currentH < 18:
-        speak('Good Afternoon! should i bomb these bitches')
+        speak('Good Afternoon! ')
     else:
         speak('Good Evening!')
 
